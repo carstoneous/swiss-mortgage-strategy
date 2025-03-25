@@ -2,7 +2,7 @@
 
 A sophisticated web-based tool for comparing different mortgage strategies in the Swiss market, helping borrowers make informed decisions based on interest rate simulations.
 
-![Swiss Mortgage Calculator](screenshots/main-interface.png)
+![Swiss Mortgage Calculator](screenshots/Summary.png)
 
 ## Features
 
@@ -21,7 +21,7 @@ A sophisticated web-based tool for comparing different mortgage strategies in th
 ## Screenshots
 
 ### Summary Results
-![Summary Tab](screenshots/summary-tab.png)
+![Summary Tab](screenshots/Summary.png)
 
 The Summary tab provides an overall assessment of different mortgage strategies:
 
@@ -32,7 +32,7 @@ The Summary tab provides an overall assessment of different mortgage strategies:
 - **Risk Assessment**: Evaluates the uncertainty level in the projections, helping you understand if the variable rate carries significant risk.
 
 ### Detailed Comparison
-![Comparison Tab](screenshots/comparison-tab.png)
+![Comparison Tab](screenshots/Detailed-Summary.png)
 
 The Detailed Comparison tab offers a comprehensive analysis of the competing mortgage strategies:
 
@@ -44,7 +44,7 @@ The Detailed Comparison tab offers a comprehensive analysis of the competing mor
 This tab helps you understand not just which strategy is best on average, but how the strategies perform relative to each other in different interest rate environments.
 
 ### Simulation Charts
-![Simulation Tab](screenshots/simulation-tab.png)
+![Simulation Tab](screenshots/Simulation-Charts.png)
 
 The Simulation tab visualizes the distribution of outcomes across thousands of interest rate scenarios:
 
@@ -64,7 +64,7 @@ The Simulation tab visualizes the distribution of outcomes across thousands of i
 These visualizations help you understand both the total cost differences and how costs evolve over the life of the mortgage.
 
 ### Rate Projections
-![Rates Tab](screenshots/rates-tab.png)
+![Rates Tab](screenshots/Rate-Projections.png)
 
 The Rate Projections tab shows how SARON rates might evolve in the future:
 
