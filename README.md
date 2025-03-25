@@ -187,13 +187,10 @@ https://your-github-username.github.io/swiss-mortgage-calculator/?loan=1000000&y
 - Support for different currencies
 - Export results as PDF or CSV
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
-Your Name - [Your Website](https://your-website.com)
+Carsten Ludwig - with the help of Claude 3.7
 
 ## Acknowledgments
 
