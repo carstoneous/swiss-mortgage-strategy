@@ -16,7 +16,7 @@ A sophisticated web-based tool for comparing different mortgage strategies in th
 
 ## Live Demo
 
-[View the Swiss Mortgage Calculator](https://your-github-username.github.io/swiss-mortgage-calculator/)
+[View the Swiss Mortgage Calculator](https://carstoneous.github.io/swiss-mortgage-strategy/?loan=1500000&years=15&saron=0.25&margin=0.55&fixed2y=1.17&fixed5y=1.29&fixed10y=1.64&sims=20000&reversion=0.05&vol=0.5&mean=1.0)
 
 ## Screenshots
 
